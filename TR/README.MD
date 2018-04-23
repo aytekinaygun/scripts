@@ -39,6 +39,6 @@ exit ()
 ... ve çalıştırıp e-postayı gönderiyoruz...
 ```
 $ python3 send-mail.py 
-Resolving host "smtp.yandex.com.tr:587" ... done
+Resolving host "smtp.yandex.com:587" ... done
 Connecting to "77.88.21.38:587" ...connected.
 ```
